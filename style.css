@@ -2,5 +2,9 @@ p{
     color: red;
 }
 h1{
-    color: aliceblue;
+    color: rgb(121, 227, 46);
+}
+.img{
+    height: 40%;
+    width: 50%;
 }
